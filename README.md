@@ -5,3 +5,5 @@
 # Step 3: Setup Wav2Lip & Dependencies
 # Step 4: Prepare Sample Data
 # Step 5: Run Inference for Output
+## Inputs to the model : inp1.mp4  and  input_audio.wav
+## Output of the model : result_voice(3).mp4
